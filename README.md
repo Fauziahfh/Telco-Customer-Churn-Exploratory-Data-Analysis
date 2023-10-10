@@ -1,4 +1,4 @@
-# Telco Customer Churn Exploratory Data Analysis
+# Telco Customer Churn Prediction
 
 Tool: Jupyter Notebook
 
